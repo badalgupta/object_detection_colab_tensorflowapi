@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>203.jpg</filename>
+	<path>/media/anuj/Work-HDD/ZigZag_Bike/Zig Zag vehicle_24-04-19/data/1/frames/203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>361</ymin>
+			<xmax>920</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1137</xmin>
+			<ymin>399</ymin>
+			<xmax>1228</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>
